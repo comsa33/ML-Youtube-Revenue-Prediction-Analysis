@@ -1,6 +1,7 @@
 # [ML] YOUTUBE revenue prediction
 youtube daily estimated revenue prediction with machine-learning (tree-based models)
 - [프로젝트 레포트](https://github.com/comsa33/ML-Youtube-Revenue-Prediction-Analysis/blob/main/Ai07_S2_Project2_%EC%9D%B4%EB%A3%A8%EC%98%A4.ipynb)
+- [데이터셋](https://www.kaggle.com/datasets/kristhecoder/youtube-revenue-data-20182021)
 
 ## Introduction
 > - Interest & Inspirations
