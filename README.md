@@ -72,5 +72,15 @@ youtube daily estimated revenue prediction with machine-learning (tree-based mod
 ![42eb0d20-63d9-4161-9baa-b7c8e8ce6620](https://user-images.githubusercontent.com/61719257/161458455-14005702-a4e6-48db-aaf7-d1bb68771f93.png)
 ![e122b839-40ca-4449-b4b8-6da19c5ebba9](https://user-images.githubusercontent.com/61719257/161458501-4fff1f51-2a50-4909-b783-e92fef77c424.png)
 
+## Top Permutation Importance
+![Screen Shot 2022-04-04 at 10 23 20](https://user-images.githubusercontent.com/61719257/161459226-a1fe6cb9-b14c-4891-84b9-55a3cf204e96.png)
+
+## Results
+- SHAP values
+
+![b96ee0d1-604d-401d-8974-bd55dcd16d20](https://user-images.githubusercontent.com/61719257/161459326-7b3d5eb9-91c7-44ae-89c9-c7a0c18b7784.png)
+![f74a4ceb-05b8-44f4-9982-9146a830d949](https://user-images.githubusercontent.com/61719257/161459359-12ef7a67-15ff-41e2-b7af-e6121d19fb0f.png)
+![Screen Shot 2022-04-04 at 10 26 35](https://user-images.githubusercontent.com/61719257/161459464-61b2d8d7-9f7f-414d-ac9e-77f2e216ea8b.png)
+
 
 
