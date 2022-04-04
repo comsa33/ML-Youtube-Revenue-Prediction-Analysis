@@ -28,6 +28,10 @@ youtube daily estimated revenue prediction with machine-learning (tree-based mod
 > - Miri Canvas
 > - OBS
 
+## Correlations with Target
+![0f9c0d99-0a70-4721-b64b-4a72d6435d37](https://user-images.githubusercontent.com/61719257/161459774-a916b9f4-b5df-4c98-a132-f4b14bad557e.png)
+
+
 ## Evaluations
 |MODELS     |MAE        |RMSE       |R2       |
 |-----------|-----------|-----------|---------|
