@@ -39,3 +39,38 @@ youtube daily estimated revenue prediction with machine-learning (tree-based mod
 |Log Transformed XGB Regressor|$10.28|$13.51|0.704|
 |Log Transformed LGBM Regressor|$16.93|$21.10|0.279|
 |Combined Model(XGB:0.8, RF:0.1, LGBM:0.1)|$10.11|$13.15|0.72|
+
+## Hyperparameters Tuning
+- Log Transformed RF Regressor
+
+|DATA     |MAE        |RMSE       |R2       |
+|-----------|-----------|-----------|---------|
+|TRAIN SET|$2.227|$4.509|0.967|
+|TEST SET|$19.38|$22.19|0.20|
+
+- Log Transformed XGB Regressor
+
+|DATA     |MAE        |RMSE       |R2       |
+|-----------|-----------|-----------|---------|
+|TRAIN SET|$0.39|$0.66|0.999|
+|TEST SET|$10.01|$13.33|0.71|
+
+- Log Transformed LGBM Regressor
+
+|DATA     |MAE        |RMSE       |R2       |
+|-----------|-----------|-----------|---------|
+|TRAIN SET|$1.03|$5.01|0.959|
+|TEST SET|$17.01|$21.05|0.28|
+
+- Tuned Combined Models (XGB:0.8, RF:0.1, LGBM:0.1)
+
+|DATA     |MAE        |RMSE       |R2       |
+|-----------|-----------|-----------|---------|
+|TEST SET|$9.59|$12.94|0.728|
+
+## Top Coef & Feature Importance
+![42eb0d20-63d9-4161-9baa-b7c8e8ce6620](https://user-images.githubusercontent.com/61719257/161458455-14005702-a4e6-48db-aaf7-d1bb68771f93.png)
+![e122b839-40ca-4449-b4b8-6da19c5ebba9](https://user-images.githubusercontent.com/61719257/161458501-4fff1f51-2a50-4909-b783-e92fef77c424.png)
+
+
+
