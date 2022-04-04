@@ -28,3 +28,14 @@ youtube daily estimated revenue prediction with machine-learning (tree-based mod
 > - Miri Canvas
 > - OBS
 
+## Evaluations
+|MODELS     |MAE        |RMSE       |R2       |
+|-----------|-----------|-----------|---------|
+|Log Transforemed Linear|$717.946   |$1319.06     |-2815.379|
+|Log Transformed Ridge|$132.31|$177.49|-49.99|
+|Log Transformed Lasso|$99.75|$135.58|-28.75|
+|Log Transformed ElasticNet|$91.33|$121.91|-23.06|
+|Log Transformed RF Regressor|$17.13|$20.68|0.307|
+|Log Transformed XGB Regressor|$10.28|$13.51|0.704|
+|Log Transformed LGBM Regressor|$16.93|$21.10|0.279|
+|Combined Model(XGB:0.8, RF:0.1, LGBM:0.1)|$10.11|$13.15|0.72|
