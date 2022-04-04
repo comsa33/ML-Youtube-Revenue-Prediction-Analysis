@@ -52,6 +52,12 @@ youtube daily estimated revenue prediction with machine-learning (tree-based mod
 > | 14 | Average_view_sec | 영상 평균 시청시간(초) |
 > | 15 | Revenue | 일일 예상 수익 |
 
+
+## Data Analasys
+![52a382a6-5545-49ae-af94-a3172b08c323](https://user-images.githubusercontent.com/61719257/161460336-82275380-2d7e-42a9-90ee-66eebfb5c1e8.png)
+
+
+
 ## Correlations with Target
 ![0f9c0d99-0a70-4721-b64b-4a72d6435d37](https://user-images.githubusercontent.com/61719257/161459774-a916b9f4-b5df-4c98-a132-f4b14bad557e.png)
 
