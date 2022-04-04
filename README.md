@@ -28,9 +28,32 @@ youtube daily estimated revenue prediction with machine-learning (tree-based mod
 > - Miri Canvas
 > - OBS
 
+## DATA
+> **Data from** : YouTube Studio (Youtuber - PoohinKorea)
+**Data Size** : (1132, 16) / (rows, columns)
+> 
+> 
+> 
+> | Date | Column Names | Describtion |
+> | --- | --- | --- |
+> | 1 | Average_views_per_viewer | 시청자 당 평균 시청 횟수 |
+> | 2 | Unique_viewers | 순 시청자 수 |
+> | 3 | Click_rate | 노출 시 클릭율 |
+> | 4 | Impressions | 노출 횟수 |
+> | 5 | Comments | 댓글 수 |
+> | 6 | Shares | 공유 수 |
+> | 7 | Dislikes | 싫어요 수 |
+> | 8 | Likes | 좋아요 수 |
+> | 9 | Average_viewed | 평균 시청율 |
+> | 10 | Videos_published | 새 영상 수 |
+> | 11 | Subscribers | 구독자 순 증가수 |
+> | 12 | Views | 조회수 |
+> | 13 | Watch_hours | 하루 누적 총 시청시간 |
+> | 14 | Average_view_sec | 영상 평균 시청시간(초) |
+> | 15 | Revenue | 일일 예상 수익 |
+
 ## Correlations with Target
 ![0f9c0d99-0a70-4721-b64b-4a72d6435d37](https://user-images.githubusercontent.com/61719257/161459774-a916b9f4-b5df-4c98-a132-f4b14bad557e.png)
-
 
 ## Evaluations
 |MODELS     |MAE        |RMSE       |R2       |
