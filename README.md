@@ -55,6 +55,16 @@ youtube daily estimated revenue prediction with machine-learning (tree-based mod
 ## Correlations with Target
 ![0f9c0d99-0a70-4721-b64b-4a72d6435d37](https://user-images.githubusercontent.com/61719257/161459774-a916b9f4-b5df-4c98-a132-f4b14bad557e.png)
 
+## F-statistic & P-Values
+|Features       |F-statistics     |p-Values  |
+|---------------|-----------------|----------|
+|Unique_viewers	|6222.843772	|0.000000|
+|Impressions	|1876.512061	|0.000000|
+|Likes	|3073.756391	|0.000000|
+|Views	|4103.723499	|0.000000|
+|Watch_hours	|4466.619683	|0.000000|
+|Subs_accumulated	|662.696705	|0.000000|
+
 ## Evaluations
 |MODELS     |MAE        |RMSE       |R2       |
 |-----------|-----------|-----------|---------|
